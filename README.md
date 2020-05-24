@@ -108,6 +108,11 @@ The Model acheived a Test Accuracy of 83% when Trained using a Pre-Trained Resne
 
 <img src='https://github.com/chaithanya21/Dog-Breed-Classification-TF/blob/master/Results/Result1.png' >
 
+# Blog Post 
+
+
+[<h2>How Deep Learning Helps Identify Dog Breeds</h2>](https://medium.com/@chaithanyakumar_91513/how-deep-learning-helps-identify-dog-breeds-ec6dc6575e87?source=your_stories_page---------------------------)
+
 
 
 
